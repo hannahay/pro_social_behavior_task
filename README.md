@@ -16,8 +16,10 @@
    parts) and the times of poking
 
 Analysis steps:
+1) plot preference score for across days
 1) find responsive neurons to poking
-2) build a classifier based on neuronal activity to classify between empathic and selfish pokes
+2) plot neurons' responses (psth) during poking and selectivity 
+3) build a classifier based on neuronal activity to classify between empathic and selfish pokes
 
 
 
