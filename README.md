@@ -7,7 +7,8 @@
 
    - from day 1 to day 4: recipient is in the cage, a transparent divider separates the actor and the 
      recipient. Actor mice can choose to poke to an inactive port (no reward) and to an empathic port 
-     (reward delivered to recipient)     
+     (reward delivered to recipient)
+     
      ![Untitled (2)](https://github.com/hannahay/test/assets/64631934/ebb1061f-e2d2-4a10-862b-17d94a162189)
 
 2) Data file for each session (ex: mouse1 and day0):
