@@ -15,7 +15,7 @@
 
 Analysis steps:
 - build a classifier based on neuronal activity to classify between empathic and selfish pokes (behavioral_analysis.py)
-
+- analyze calcium imaging data during the tasks (on going)
 
 
      
